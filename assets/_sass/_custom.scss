@@ -1,0 +1,125 @@
+/* color scheme */
+$darkgray: black;
+$lightgray: #4d4845;
+.bgwhite {background:white; z-index:-5}
+
+/* palette */
+
+$yellow : #D9D451;
+$turquoise : #009091;
+$red : #bf1e2e;
+$violet: #917dae;
+$orange: #f7941d;
+$green: #b4d455;
+
+/* labels */
+.bgyellow {background-color: $yellow !important};
+.bgturquoise {background-color: $turquoise !important};
+.bgred {background-color: $red !important};
+.bgviolet {background-color: $violet !important};
+.bgorange {background-color: $orange !important};
+.bggreen {background-color: $green !important};
+
+/* top bar */
+//.white nav {background: white !important;}
+
+$contents-margin : 220px;
+
+@mixin image-radius($radius) {
+                  width: $radius * 2;
+                 height: $radius * 2;
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+          margin-left: -$contents-margin ;
+          float:left;
+}
+
+div.contents img {
+  @include image-radius(75px);
+}
+
+div.contents img.title {
+  @include image-radius(100px);
+}
+
+
+div.contents { padding-left: $contents-margin}
+
+hr { clear: left;}
+
+/* TOP-BAR */
+
+.title-area .name img {margin-top:0px;width:35px;}
+
+// $topbar-height: rem-calc(60);
+
+$body-font-family: 'Roboto', sans-serif;
+$topbar-title-font-size: rem-calc(25);
+$topbar-margin-bottom: 0;
+$topbar-margin-top: rem-calc(20);
+$topbar-link-font-size: 120%;
+$topbar-link-font-family: 'Roboto Slab', sans-serif;
+$header-font-family: $topbar-link-font-family;
+
+$topbar-bg-color: white;
+$topbar-link-color: $lightgray;
+$topbar-link-color-hover: $lightgray;
+$topbar-link-color-active: $lightgray;
+$topbar-link-color-active-hover: $lightgray;
+$topbar-link-bg-hover: yellow;
+$topbar-link-bg-color-hover: yellow;
+$topbar-link-bg-active-hover: yellow;
+$topbar-link-bg-active: yellow;
+// $topbar-link-text-transform: uppercase;
+
+$topbar-menu-link-color: $darkgray;
+$topbar-menu-icon-color: $darkgray;
+$topbar-menu-link-color-toggled: $darkgray;
+$topbar-menu-icon-color-toggled: $darkgray;
+$topbar-dropdown-label-bg: white;
+$topbar-dropdown-bg: white;
+$topbar-dropdown-link-bg: white;
+
+
+/* candidate list */
+
+@media only screen and (max-width: 500px) {
+.ilustrace-program {
+ display:block; width:90%; max-width:300px; margin-right:5%; margin-left:5%; float:none;}}
+
+div.perex {
+margin-bottom: 20px;
+font-size: 120%;}
+
+h1 small, h2 small, h3 small {
+display: block;
+margin-bottom: 25px;
+margin-top: 10px;}
+
+/* ikony */
+.icon {font-size: 1.2em;padding-left:3px;}
+#contacts .label { font-size: 90%;
+margin-top: 3px;
+margin-bottom: 3px;}
+
+/* horizontal rules */
+
+.menu {
+    background-color:$darkgray;
+    color:white;
+    box-shadow:0 0 1px $darkgray;
+    z-index: 20;position:relative;
+    margin-top:15px;margin-bottom:25px;}
+
+.menu ul
+    {
+
+    @include inline-list;
+    overflow:visible;
+
+    li {
+      a:link, a:hover, a:visited, a:hover {color: white; text-decoration:none}
+      }
+    }

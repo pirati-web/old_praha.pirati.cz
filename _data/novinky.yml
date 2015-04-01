@@ -1,0 +1,11 @@
+title: Novinky
+unit:  praha
+menu:
+  - label: Blog
+    url:   /blog/
+  - label: Zastupitelstvo
+    url:   /zastupitelstvo/
+  - label: Média
+    url:   /media/
+  - label: Dementi
+    url:   /dementi/

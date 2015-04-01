@@ -1,0 +1,9 @@
+title: Lidé
+unit:  praha
+menu:
+  - label: Klub zastupitelů
+    url:   /lide/zastupitele/
+  - label: Senátor Libor Michálek
+    url:   /lide/senator/
+  - label: Krajské předsednictvo
+    url:   /lide/predsednictvo/

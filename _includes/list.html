@@ -1,0 +1,8 @@
+{% for item in pages %}
+<img src="{{ item.image }}" title="{{ item.title}}">
+
+<h3><a href=" {{item.url}} ">{{ item.title}}</a><small>{{ item.sub }}</small></h3>
+{% if item.perex %}{{ item.perex }}{% else %}{{item.excerpt}}{% endif %}
+
+  <hr/>
+{% endfor %}

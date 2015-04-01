@@ -1,0 +1,37 @@
+  <div class="bgwhite">
+    <div class="row">
+<nav class="top-bar" data-topbar role="navigation" class="large-12 columns">
+  <ul class="title-area">
+    <li class="name">
+          <a href="/index.html"><h1><img src="/assets/images/fblogo.png"/> <strong>Piráti</strong> Praha</h1></a>
+    </li>
+    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <ul class="right">
+
+      {% for item in site.data[page.unit] %}
+      <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{{ item.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+</nav>
+    </div>
+  </div>
+
+{% if page.menu %}
+
+<div class="menu">
+<div class="row">
+
+<ul>
+{% for item in site.data[page.menu].menu %}
+      <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{{ item.label }}</a></li>
+{% endfor %}
+</ul>
+
+</div>
+</div>
+{% endif %}

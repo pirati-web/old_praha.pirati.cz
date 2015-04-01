@@ -1,0 +1,11 @@
+---
+layout:    portal
+unit:      praha
+permalink: blog/
+title:     Blog
+sub:       zprávy bez novinářského přežvýkání
+menu:      novinky
+---
+
+{% assign pages = (site.posts | where: "category", "blog" | sort: 'date') %}
+{% include list.html %}

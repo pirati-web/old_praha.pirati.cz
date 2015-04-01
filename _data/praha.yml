@@ -1,0 +1,15 @@
+- label: Lidé
+  url:   /lide/zastupitele/
+  color: red
+- label: Program
+  url:   /program/
+  color: turquoise
+- label: Novinky
+  url:   /blog/
+  color: orange
+- label: Místní sdružení
+  url:   ./sdruzeni/
+  color: green
+- label: Kontakt
+  url:   /kontakt/
+  color: black
