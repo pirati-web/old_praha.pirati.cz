@@ -1,0 +1,10 @@
+---
+layout:    portal
+unit:      praha
+permalink: /projevy/
+title:     Projevy
+menu:      novinky
+---
+
+{% assign pages = (site.posts | where: "category", "projev" | sort: 'date') %}
+{% include list.html %}

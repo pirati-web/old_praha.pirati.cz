@@ -1,0 +1,10 @@
+---
+layout:    portal
+unit:      praha
+permalink: /dementi/
+title:     Dementi
+menu:      novinky
+---
+
+{% assign pages = (site.posts | where: "category", "dementi" | sort: 'date') %}
+{% include list.html %}

@@ -3,7 +3,7 @@ layout: blog
 category: blog
 tags: hlasování zastupitelstvo
 sub: 2. zasedání zastupitelstva
-title: Podruhé zasedalo zastupitelstvo 
+title: Zastupitelstvo odmítlo jednat o lepším zveřejňování smluv
 image: /media/blog/miki.jpg
 autor: Jan Loužek
 ---
@@ -18,7 +18,6 @@ Rádi bychom se ještě vrátili k minulému týdnu, kdy se konalo 2. zasedání
 * Opět se svedl boj o **vedení kontrolního výboru**, neboť jeho předseda v minulém hlasování zvolen nebyl. ([viz článek](http://praha.pirati.cz/prvni-zasedani.html)). Dostali jsme nicméně ještě méně hlasů než minule – celkem jedenadvacet ([viz výsledek hlasování](/assets/static/jmil.pdf)). Je nicméně překvapující, že hlasy oproti minulému zasedání přibyly panu Filipu Humplíkovi z ODS. ([viz výsledek hlasování](/assets/static/hamp.pdf))
 * Piráti rovněž vyzvali Radu, aby připravila **změny zákona o hlavním městu Praze**. Ten má dnes celou řadu absurdních ustanovení. Například seznam majetku je veden ve statutu a každá změna svěření majetku jednotlivé městské části musí proběhnout změnou statutu města. Piráti chtějí, aby se majetek uchovával v databázi.
 
-V návaznosti na jednání zastupitelstva se sešel zastupitelský klub, který schválil způsob vnitřní přípravy tisků na projednání a postup při připomínkování. 
+V návaznosti na jednání zastupitelstva se sešel zastupitelský klub, který schválil způsob vnitřní přípravy tisků na projednání a postup při připomínkování.
 
 Zastupitelský klub rovněž přijal usnesení, že do únorového zasedání zastupitelstva **musí být přijat návrh na zveřejňování smluv**, jinak místo konstruktivní opoziční práce přijde adekvátní reakce.
-

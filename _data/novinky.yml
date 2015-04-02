@@ -3,11 +3,13 @@ unit:  praha
 menu:
   - label: Blog
     url:   /blog/
-  - label: Zastupitelstvo
+  - label: Zprávy ze zastupitelstva
     url:   /zastupitelstvo/
   - label: Témata
     url:   /temata/
   - label: V médiích
     url:   /media/
+  - label: Projevy
+    url:   /projevy/
   - label: Dementi
     url:   /dementi/
