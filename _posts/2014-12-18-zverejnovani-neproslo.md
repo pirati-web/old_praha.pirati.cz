@@ -1,10 +1,14 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: smlouvy otevřenost
-title: Zveřejňování? Prostě zdržujeme
-image: /media/blog/adam-papir.jpg
-autor: Adam Zábranský
+tags: 
+- smlouvy 
+- otevřenost
+title:    Zveřejňování? Prostě zdržujeme
+image:    /media/blog/adam-papir.jpg
+autor:    Adam Zábranský
+people:   Adam Zábranský
+places:   Magistrát
 ---
 
 Adam Zábranský dnes za Zastupitelský klub Pirátů předložil očekávaný návrh č. Z-3110, který se týká zveřejňování smluv. Tento návrh byl shozen ze stolu – na program jednání ho koalice ANO, ČSSD a Trojkoalice odmítla zařadit.

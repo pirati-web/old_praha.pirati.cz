@@ -1,10 +1,16 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: rada opencard papírové_kupóny doprava
-title: Papírové kupóny jsou důležitý doplněk Opencard
-image: /media/blog/mhd-prukaz.jpg
-autor: Jakub Michálek
+tags:     
+- rada 
+- opencard 
+- papírové kupóny 
+- doprava
+title:    Papírové kupóny jsou důležitý doplněk Opencard
+image:    /media/blog/mhd-prukaz.jpg
+autor:    Jakub Michálek
+people:   Jakub Michálek, Adriana Krnáčová
+places:   Praha
 ---
 
 Praha vrací od 1. března 2015 možnost lidem využívat místo Opencard papírové

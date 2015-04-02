@@ -1,9 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: opozice
-title: Opozici se věnujeme naplno
-image: /media/blog/krajske-forum.jpg
+tags:     
+- opozice
+title:    Opozici se věnujeme naplno
+image:    /media/blog/krajske-forum.jpg
+places:   Magistrát
+people:   Jakub Michálek, Mikuláš Ferjenčík, Adam Zábranský, Ondřej Profant
 ---
 
 V úterý v noci skončilo internetové hlasování krajského sdružení pražských Pirátů o podpoře zastupitelského klubu. Krajské sdružení Pirátů se rozhodlo finančně podpořit zastupitele Pirátů v zastupitelstvu Prahy. 

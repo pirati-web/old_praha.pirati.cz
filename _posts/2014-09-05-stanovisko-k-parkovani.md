@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: parkování
-title: Jednotný systém parkování
-image: /media/blog/modra-zona.jpg
-autor: Jakub Michálek
+tags: 
+- parkování
+title:    Jednotný systém parkování
+image:    /media/blog/modra-zona.jpg
+autor:    Jakub Michálek
+people: 
+places:   Praha
 ---
 
 Přeplněnost města auty a nedostatek parkovacích míst je problém, který řeší všechna velká města. Lze se v mnohém inspirovat od měst, kde jsou na tom lépe. To, že se má primárně řešit na úrovni celopražské, nikoliv městských částí, je bez debat.

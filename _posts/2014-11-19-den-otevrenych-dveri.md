@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: informace
-title: Den otevřených dveří
-image: /media/blog/dvere.jpg
-autor: Jan Loužek
+tags:     
+- veřejnost
+title:    Den otevřených dveří
+image:    /media/blog/dvere.jpg
+autor:    Jan Loužek
+people:   Jan Loužek
+places:   Magistrát
 ---
 
 Určitě jste si již všimli, že nedlouho poté, co se zde náš zastupitelský klub zabydlel, jsme se vrhli do vod pražské komunální politiky. Začali jsme sledovat klasické kauzy (Opencard) a rozkrývat aktuální problémy (utajování platů vysokých úředníků, ať už na městské, nebo komunální úrovni).

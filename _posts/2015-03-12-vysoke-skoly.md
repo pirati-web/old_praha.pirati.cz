@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: granty
-title: Školy už neutají odměny manažerů
-image: /media/blog/jakub-rozsudek.jpg
-autor: Jakub Michálek
+tags:     
+- granty
+title:    Školy už neutají odměny manažerů
+image:    /media/blog/jakub-rozsudek.jpg
+autor:    Jakub Michálek
+people:   Jakub Michálek
+places:   České Budějovice
 ---
 
 Pirát Jakub Michálek dnes oznámil úspěch v soudním procesu s Vysokou školou technickou a ekonomickou v Českých Budějovicích. Jakub Michálek chtěl v roce 2012 provést rešerši odměňování top-manažerů vysokých škol. Informace o odměnách manažerů placených z veřejných prostředků však budějovická technika utajila. Ministerstvo školství, k němuž se Jakub Michálek odvolal, se věcí odmítlo zabývat. 

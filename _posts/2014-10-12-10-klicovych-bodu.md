@@ -1,8 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-title: 10 bodů pro novou Radu
-image: /media/blog/rada.jpg
+tags:
+- rada
+title:    10 bodů pro novou Radu
+image:    /media/blog/rada.jpg
+people:   Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský
+places:   Praha
 ---
 
 Nepůjdeme do žádné koalice, svoje předvolební sliby plníme i po volebním úspěchu. Piráti nebudou sedět v radě Prahy, náš cíl je naopak radu kontrolovat a působit jako **konstruktivní opozice**.

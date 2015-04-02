@@ -1,10 +1,14 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: Kontrolní_výbor projev
-title: Pat v bitvě o kontrolní výbor, koalice odmítla rotaci
-image: /media/blog/miki-kv.jpg
-autor: Mikuláš Ferjenčík
+tags:     
+- Kontrolní výbor 
+- projev
+title:    Pat v bitvě o kontrolní výbor, koalice odmítla rotaci
+image:    /media/blog/miki-kv.jpg
+autor:    Mikuláš Ferjenčík
+people:   Mikuláš Ferjenčík
+places:   Magistrát
 ---
 
 Často se nás ptáte na to, jestli už vedeme kontrolní výbor. 

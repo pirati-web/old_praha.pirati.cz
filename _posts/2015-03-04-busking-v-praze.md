@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: busking
-title: Busking v Praze, nevylévejme s vaničkou i dítě
-image: /media/blog/harmoniky.jpg
-autor: Mikuláš Ferjenčík
+tags: 
+- busking
+title:    Busking v Praze, nevylévejme s vaničkou i dítě
+image:    /media/blog/harmoniky.jpg
+autor:    Mikuláš Ferjenčík
+people:   Mikuláš Ferjenčík
+places:   Praha
 ---
 
 Dnes se výbor zastupitelstva pro kulturu zabýval návrhem novely vyhlášky upravující busking - pouliční umělecká vystoupení - v Praze. Novela přináší dvě zásadní změny:

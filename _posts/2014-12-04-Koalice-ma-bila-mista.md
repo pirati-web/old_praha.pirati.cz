@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: projev
-title: Koalice má bílá místa
-image: /media/blog/jakub-hovori.jpg
-autor: Jakub Michálek
+tags: 
+- projev
+title:    Koalice má bílá místa
+image:    /media/blog/jakub-hovori.jpg
+autor:    Jakub Michálek
+people:   Jakub Michálek
+places:   Magistrát
 ---
 
 Vážené paní zastupitelky, vážení pánové zastupitelé, vážení občané.

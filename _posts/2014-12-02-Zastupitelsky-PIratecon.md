@@ -1,10 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: akce
-title: Zastupitelský Piratecon
-image: /media/blog/pirati-ujezd.jpg
-autor: Jan Loužek
+tags:
+- akce
+title:    Zastupitelský Piratecon
+image:    /media/blog/pirati-ujezd.jpg
+autor:    Jan Loužek
+people:   Mikuláš Ferjenčík, Lucie Sedmihradská, Ondřej Koch, Lukáš Prnka, Jakub Michálek, Ondřej Profant, Kamil Gregor
 ---
 
 Všechna zastupitelstva jsou již nyní sestavena a všichni starostové a primátoři byli zvoleni. Piráti mají v České republice celkem nyní 37 zastupitelů, z toho 5 v Mariánských Lázních a 4 na pražském magistrátu. Potom je zde zhruba několik desítek dalších nepirátů zvolených s podporou Pirátské strany na kandidátkách v různých koalicích. To samo o sobě je značný počet lidí, kteří mohou českou komunální politiku výrazným způsobem změnit. Zde v Praze jsme s tím začali – a chceme to dát jasně vidět nejen všem ostatním Pirátům, ale především občanům.

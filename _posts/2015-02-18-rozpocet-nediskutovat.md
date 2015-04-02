@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: rozpočet
-title: Rozpočet 2015? Nediskutovat!
-image: /media/blog/rozpocet.jpg 
-autor: Viktor Mahrik
+tags: 
+- rozpočet
+title:    Rozpočet 2015? Nediskutovat!
+image:    /media/blog/rozpocet.jpg 
+autor:    Viktor Mahrik
+people:   Viktor Mahrik, Eva Kislingerová
+places:   Praha
 ---
 
 Někdo by si mohl myslet, že jednání výboru slouží k tomu, aby se diskutovalo o tiscích, které míří na zastupitelstvo, aby se s nimi seznámila opozice a aby si naopak koalice mohla vyslechnout připomínky. Zkrátka aby tisk šel tisk na zastupitelstvo co nejlepší. Bohužel na posledním jednání finančního výboru jsem byl vyveden z omylu. 

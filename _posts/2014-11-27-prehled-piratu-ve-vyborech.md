@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: výbory
-title: Přehled Pirátů ve výborech
-image: /media/blog/pirati-a-krnacova.jpg
-autor: Jan Loužek
+tags:     
+- výbory
+title:    Přehled Pirátů ve výborech
+image:    /media/blog/pirati-a-krnacova.jpg
+autor:    Jan Loužek
+people:   Jakub Michálek, Mikuláš Ferjenčík, Ondřej Profant, Adam Zábranský
+places:   Magistrát
 ---
 Na ustavujícím zasedání Zastupitelstva hlavního města Prahy byl zvolen nový primátor města, rada a rovněž i členové výborů zastupitelstva. Následujících pět členů je ve funkci za Pirátskou stranu.
 

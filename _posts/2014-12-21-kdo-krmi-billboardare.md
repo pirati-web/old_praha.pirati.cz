@@ -1,10 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: PSP
-title: Kdo krmí billboardáře?
-image: /media/blog/psp.jpg
-autor: Jakub Michálek
+tags: 
+- pražské stavební předpisy
+title:    Kdo krmí billboardáře?
+image:    /media/blog/psp.jpg
+autor:    Jakub Michálek
+people:   Matěj Stropnický
 ---
 
 Vedení města připravilo Pražanům nemilý dárek k Vánocům: Svou nečinností způsobilo 

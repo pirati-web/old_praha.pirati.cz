@@ -1,10 +1,14 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: smlouvy otevřenost
-title: Zveřejňujme smlouvy lépe
-image: /media/blog/dotaz-michalek.jpg
-autor: Jan Loužek
+tags: 
+- smlouvy 
+- otevřenost
+title:    Zveřejňujme smlouvy lépe
+image:    /media/blog/dotaz-michalek.jpg
+autor:    Jan Loužek
+people:   Jakub Michálek
+places:   Praha
 ---
 
 Zastupitelský klub Pirátů navrhuje zařadit na program jednání zastupitelstva Prahy dne 18. prosince 2014 **[nové zásady zveřejňování smluv](/assets/static/3110.pdf)**. Hlavním cílem Pirátů je, aby zveřejňování smluv skutečně sloužilo svému účelu a umožnilo občanům, neziskovým organizacím i politikům kontrolovat nakládání s veřejnými prostředky. To se v současnosti bohužel neděje. 

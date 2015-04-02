@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: granty
-title: Občan nesmí znát odměny politiků ODS
-image: /media/blog/honza.jpg
-autor: Jan Loužek
+tags:     
+- granty
+title:    Občan nesmí znát odměny politiků ODS
+image:    /media/blog/honza.jpg
+autor:    Jan Loužek
+people:   Jan Loužek
+places:   Praha
 ---
 
 Místopředsedkyně kontrolního výboru zastupitelstva JUDr. Jaroslava Janderová (ODS)

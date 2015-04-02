@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: magistrát stáž
-title: Zkuste si pirátskou stáž
-image: /media/blog/louzek-amelia.jpg
-autor: Mikuláš Ferjenčík
+tags: 
+- stáž
+title:    Zkuste si pirátskou stáž
+image:    /media/blog/louzek-amelia.jpg
+autor:    Mikuláš Ferjenčík
+people:   Mikuláš Ferjenčík
+places:   Magistrát
 ---
 
 Jsou vám blízké Pirátské principy otevřenosti a spolupráce?  

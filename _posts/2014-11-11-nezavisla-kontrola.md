@@ -1,10 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: Kontrolní_výbor
-title: Kontrolní výbor Pirátům
-image: /media/blog/magistrat.jpg
-autor: Mikuláš Ferjenčík
+tags:     
+- Kontrolní výbor
+title:    Kontrolní výbor Pirátům
+image:    /media/blog/magistrat.jpg
+autor:    Mikuláš Ferjenčík
+people:   Adriana Krnáčová
 ---
 
 TOP 09 si stěžuje, že mají v Praze dostat kontrolní výbor Piráti. Prý je dobrým zvykem dát ho nejsilnější opoziční straně. Jestli je to dobrý zvyk nevím, ale rozhodně to není zvyk TOP 09. Ta kontrolní výbor nepřiklepla ODS, což je nejsilnější opoziční strana ve starém zastupitelstvu, ale ČSSD, se kterou má TOP 09 podepsanou opoziční smlouvu.

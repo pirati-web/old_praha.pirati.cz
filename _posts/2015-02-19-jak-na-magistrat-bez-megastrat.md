@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: magistrát
-title: Piráti radí, jak na magistrát bez megaztrát
-image: /media/blog/tym.jpg
-autor: Jakub Michálek
+tags:     
+- magistrát
+title:    Piráti radí, jak na magistrát bez megaztrát
+image:    /media/blog/tym.jpg
+autor:    Jakub Michálek
+people:   Martina Děvěrová
+places:   Magistrát
 ---
 
 Zastupitelský klub blahopřál nové ředitelce Magistrátu hl. m. Prahy Martině 

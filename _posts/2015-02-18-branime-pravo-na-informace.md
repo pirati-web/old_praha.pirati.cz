@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
 tags:
-- Praha 10
-- Olga_Richterová
 - Právo na informace
-title: Koalice na desítce cenzuruje informace zastupitelům
-image: /media/blog/kleslova.jpg
-autor: Jakub Michálek
+title:    Koalice na desítce cenzuruje informace zastupitelům
+image:    /media/blog/kleslova.jpg
+autor:    Jakub Michálek
+people:   Olga Richterová
+places:   Praha 10
 ---
 
 Zastupitelský klub Pirátů v hl. m. Praze razantně vystoupil proti cenzuře

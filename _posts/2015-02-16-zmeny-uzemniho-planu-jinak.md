@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: územní_plán
-title: Změny územního plánu jinak
-image: /media/blog/uplan.jpg 
-autor: Mikuláš Ferjenčík
+tags:     
+- územní plán
+title:    Změny územního plánu jinak
+image:    /media/blog/uplan.jpg 
+autor:    Mikuláš Ferjenčík
+people:   Mikuláš Ferjenčík
+places:   Praha
 ---
 
 Jeden z klíčových volebních bodů Pirátů je zprůhlednit proces přijímání změn územního plánu. Zastupitel Pirátů [Mikuláš Ferjenčík](http://praha.pirati.cz/mikulas-ferjencik.html) proto zpracoval stručnou analýzu nejzávažnějších nedostatků stávající praxe pořizování změn územního plánu. 

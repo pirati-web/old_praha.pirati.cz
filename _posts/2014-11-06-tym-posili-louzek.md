@@ -1,9 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: spolupráce
-title: Zveřejňovač Jan Loužek
-image: /media/blog/louzek-amelia.jpg
+tags:     
+- spolupráce
+title:    Zveřejňovač Jan Loužek
+image:    /media/blog/louzek-amelia.jpg
+people:   Jan Loužek
+places:   Magistrát
 ---
 
 Tým Pirátů v zastupitelstvu hl. m. Prahy posílí wikipedista Jan Loužek. Ve čtvrtek večer o tom rozhodl zastupitelský klub Pirátů, který vybíral **zveřejňovače** ze 37 uchazečů. Loužek má zkušenosti z Evropského parlamentu, kde pracoval pro **Pirátskou europoslankyni Amelii Andersdotter** (na snímku). Nyní bude zveřejňovat materiály v zastupitelstvu hl. m. Prahy a řešit každodenní administrativu klubu.

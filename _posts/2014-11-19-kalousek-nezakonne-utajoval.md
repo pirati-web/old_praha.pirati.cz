@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: informace
-title: Piráti dolují informace ČKA
-image: /media/blog/pirati-vs-kalousek.jpg
-autor: Jakub Michálek
+tags:     
+- informace
+title:    Piráti dolují informace ČKA
+image:    /media/blog/pirati-vs-kalousek.jpg
+autor:    Jakub Michálek
+people:   Jakub Michálek, Miroslav Kalousek
+places:   Ministerstvo financí 
 ---
 
 Piráti dnes na tiskové konferenci představili další postup ve sporu s ministerstvem financí o seznam dlužníků České konsolidační agentury (ČKA). Piráti chtějí doplnit rozsudek Městského soudu v Praze, který rozhodl, že ministerstvo financí postupovalo nezákonně, o výslovný příkaz poskytnout informace. Dále apelují na současného ministra financí Andreje Babiše, aby nezákonně utajované informace konečně poskytl. V neposlední řadě potom navrhují, aby Miroslav Kalousek, který žádost o informace zamítl, uhradil škodu, kterou svým rozhodnutím způsobil.

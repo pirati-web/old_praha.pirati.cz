@@ -1,11 +1,14 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: hlasování zastupitelstvo
-sub: 3. zasedání zastupitelstva
-title: Koalice schválila superzakázku na odpad
-image: /media/blog/ondra-i-miki.jpg
-autor: Jakub Michálek
+tags: 
+- zastupitelstvo
+sub:      3. zasedání zastupitelstva
+title:    3. zasedání zastupitelstva
+image:    /media/blog/ondra-i-miki.jpg
+autor:    Jakub Michálek
+people:   Jakub Michálek, Mikuláš Ferjenčík, Ondřej Profant, Adam Zábranský
+places:   Magistrát
 ---
 
 Na třetím zasedání zastupitelstva hl. m. Prahy schválila koalice **obrovskou

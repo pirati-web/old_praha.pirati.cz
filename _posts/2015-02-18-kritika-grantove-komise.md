@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: granty
-title: Březina s Kleslovou rozdělí 360 milionů na sport
-image: /media/blog/navrh.jpg
-autor: Adam Zábranský
+tags:     
+- granty
+title:    Březina s Kleslovou rozdělí 360 milionů na sport
+image:    /media/blog/navrh.jpg
+autor:    Adam Zábranský
+people:   Karel Březina, Radmila Kleslová
+places:   Magistrát
 ---
 
 Předsedou grantové komise pro sport a tělovýchovu se má podle radní Novákové stát Karel Březina. Sekundovat mu pak bude Radmila Kleslová. [Tento návrh](/assets/static/navrh-komise.pdf) nás jako zastupitelský klub Pirátů znepokojuje. Zastupitel za ČSSD Karel Březina byl před čtyřmi měsíci pravomocně odsouzen za trestný čin podvodu. Nominantka Radmila Kleslová je bývalou spolupracovnicí Státní bezpečnosti, není členskou zastupitelstva a dle nám dostupných informací postrádá odbornost v oblasti sportu (kromě toho, že je profesionální politickou přeběhlicí).

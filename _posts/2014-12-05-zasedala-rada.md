@@ -1,10 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: projev
-title: Vendor lock-in pokračuje
-image: /media/blog/magistrat.jpg
-autor: Ondřej Profant
+tags:     projev
+title:    Vendor lock-in pokračuje
+image:    /media/blog/magistrat.jpg
+autor:    Ondřej Profant
+people:   Ondřej Profant
+places:   Magistrát
 ---
 
 Dne 4. prosince zasedala Rada hlavního města Prahy. Za Piráty se tříhodinového setkání účastil Ondřej Profant. 

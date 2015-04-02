@@ -1,9 +1,12 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: opozice
-title: Povolební aritmetika
-image: /media/blog/zastupitelstvo.jpg
+tags:     
+- opozice
+title:    Povolební aritmetika
+image:    /media/blog/zastupitelstvo.jpg
+people:   Jakub Michálek
+places:   Magistrát
 ---
 
 Pražské zastupitelstvo má 65 členů. Z toho většina činí 33 členů. Touto většinou musí být schválena jak rada města, tak každý jednotlivý návrh včetně návrhu na odvolání rady města. Většinou 33 hlasů disponuje v současné době skupina volebních stran ANO+ČSSD+Trojkoalice, takže Piráti by šli do opozice. 

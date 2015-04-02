@@ -1,10 +1,13 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: granty
-title: Karel Březina v grantové komisi
-image: /media/blog/brezina.jpg
-autor: Mikuláš Ferjenčík
+tags: 
+- granty
+title:    Karel Březina v grantové komisi
+image:    /media/blog/brezina.jpg
+autor:    Mikuláš Ferjenčík
+people:   Karel Březina
+places:   Magistrát
 ---
 
 Rada hl. m. Prahy bude na dnešním jednání schvalovat zřízení grantové komise pro oblast sportu a tělovýchovy a grantové komise pro oblast volného času dětí a mládeže.
