@@ -1,22 +1,22 @@
 ---
-layout: portal
-category: zastupitel
-title: Ondřej Profant
-number: 2
-fullname: Ondřej Profant
-name: Ondřej Profant
-sub: zastupitel se zaměřením na informatiku
-image: /media/lide/ondrej-profant.jpg
-anotation: Zeptejte se svých dětí, proč volí Piráty
-perex: Informatik specializovaný na svobodný software. Zaměřuje se na IT systémy, technologické inovace a nalýzu zavedení bezplatné MHD.
-priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-profant.md
-facebook: "https://www.facebook.com/ondrej.profant"
-telefon: + 420 607 580 015
-mail: ondrej.profant@pirati.cz
-vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=3
-ukoly: https://redmine.pirati.cz/projects/praha/issues?query_id=10
-foto: https://www.flickr.com/search/?text=Ondřej%20Profant&sort=relevance&user_id=68741528%40N03
-github: https://github.com/Kedrigern
+layout:    person
+category:  zastupitel
+title:     Ondřej Profant
+fullname:  Ondřej Profant
+name:      Ondřej Profant
+sub:       zastupitel se zaměřením na informatiku
+image:     /media/lide/ondrej-profant.jpg
+perex: >
+           Ondřej Profant je informatik specializovaný na svobodný software. Zaměřuje se na IT systémy, technologické inovace a analýzu zavedení bezplatné MHD.
+return:    https://github.com/pirati-cz/KlubPraha/blob/master/priznani/ondrej-profant.md
+phone:     +420 607 580 015
+mail:      ondrej.profant@pirati.cz
+facebook:  https://www.facebook.com/ondrej.profant
+twitter:   https://twitter.com/ondrej_profant
+report:    https://redmine.pirati.cz/activity?show_time_entries=1&user_id=3
+tasks:     https://redmine.pirati.cz/projects/praha/issues?query_id=10
+photos:    https://www.flickr.com/search/?text=Ondřej%20Profant&sort=relevance&user_id=68741528%40N03
+github:    https://github.com/Kedrigern
 unit:      praha
 ---
 

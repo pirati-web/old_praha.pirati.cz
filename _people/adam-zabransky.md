@@ -1,24 +1,23 @@
 ---
-layout: person
-category: zastupitel
-title: Adam Zábranský
-number: 3
-fullname: Adam Zábranský
-name: Adam Zábranský
-sub: zastupitel pro kontakt s občany
-image: /media/lide/adam-zabransky.jpg
-anotation: Magistrát bez megaztrát
-perex: Student práv a wikipedista. Zaměřuje se na svobodomyslnou Prahu, sběr podnětů od občanů, právní analýzu dokumentů.
-mail: adam.zabransky@pirati.cz
-twitter: "https://twitter.com/adamzabransky"
-facebook: "https://www.facebook.com/adam.zabransky"
-priznani: https://github.com/pirati-cz/KlubPraha/blob/master/priznani/adam-zabransky.md
-telefon: + 420 721 006 868
-mail: adam.zabransky@pirati.cz
-vykaz: https://redmine.pirati.cz/activity?show_time_entries=1&user_id=16
-ukoly: https://redmine.pirati.cz/projects/praha/issues?query_id=8
-foto: https://www.flickr.com/search/?text=Adam%20Zábranský&sort=relevance&user_id=68741528%40N03
-github: https://github.com/adamzabransky
+layout:    person
+category:  zastupitel
+title:     Adam Zábranský
+fullname:  Adam Zábranský
+name:      Adam Zábranský
+sub:       zastupitel pro kontakt s občany
+image:     /media/lide/adam-zabransky.jpg
+perex: >
+           Adam Zábranský je student práv a wikipedista. Zaměřuje se na svobodomyslnou Prahu, sběr podnětů od občanů, právní analýzu dokumentů.
+
+return:    https://github.com/pirati-cz/KlubPraha/blob/master/priznani/adam-zabransky.md
+phone:     +420 721 006 868
+mail:      adam.zabransky@pirati.cz
+facebook:  https://www.facebook.com/adam.zabransky
+twitter:   https://twitter.com/adamzabransky
+report:    https://redmine.pirati.cz/activity?show_time_entries=1&user_id=16
+tasks:     https://redmine.pirati.cz/projects/praha/issues?query_id=8
+photos:    https://www.flickr.com/search/?text=Adam%20Zábranský&sort=relevance&user_id=68741528%40N03
+github:    https://github.com/adamzabransky
 unit:      praha
 ---
 
