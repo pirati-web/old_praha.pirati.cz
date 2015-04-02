@@ -1,6 +1,6 @@
 ---
 layout:   blog
-category: blog
+category: zastupitelstvo
 tags: 
 - zastupitelstvo
 sub:      3. zasedání zastupitelstva

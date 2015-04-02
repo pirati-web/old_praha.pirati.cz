@@ -1,6 +1,6 @@
 ---
 layout:   blog
-category: blog
+category: projev
 tags: 
 - projev
 title:    Koalice má bílá místa

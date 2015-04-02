@@ -1,7 +1,8 @@
 ---
 layout:   blog
 category: blog
-tags:     projev
+tags:     
+- projev
 title:    Vendor lock-in pokračuje
 image:    /media/blog/magistrat.jpg
 autor:    Ondřej Profant
