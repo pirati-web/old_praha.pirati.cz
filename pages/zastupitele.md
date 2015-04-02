@@ -14,11 +14,15 @@ Zastupitelstvo hl. m. Prahy je orgán volený všemi Pražany, který
 * schvaluje obecně závazné vyhlášky platné na území Prahy,
 * projednává rozpočet a zásadní koncepce rozvoje města.
 
+----
+
 Zastupitelé
 -----------------------------------
 
 {% assign pages = site.people | where: "category", "zastupitel" | sort_by: "number" %}
 {% include list.html %}
+
+----
 
 Tým
 -----------------------------------

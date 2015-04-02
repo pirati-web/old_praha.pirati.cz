@@ -19,8 +19,14 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
+  places:
+    output: true
+    permalink: /mista/:path/
   menus:
     output: false
   events:
     output: true
     permalink: /udalosti/:path/
+
+author: Piráti Praha
+copyright: 'Všechna práva vyhlazena. Sdílejte dál pod licencí <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>'

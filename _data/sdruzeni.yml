@@ -1,0 +1,7 @@
+title: Místní sdružení
+unit:  praha
+menu:
+  - label: "Praha 6"
+    url:   "/sdruzeni/praha06/"
+  - label: "Praha 10"
+    url:   "/sdruzeni/praha10/"

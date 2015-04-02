@@ -2,7 +2,7 @@
 <img src="{{ item.image }}" title="{{ item.title}}">
 
 <h3><a href=" {{item.url}} ">{{ item.title}}</a><small>{{ item.sub }}</small></h3>
-{% if item.perex %}{{ item.perex }}{% else %}{{item.excerpt}}{% endif %}
+{% if item.perex %}{{ item.perex }}{% elsif item.excerpt %}{{item.excerpt}}{% else %}{{ item.content | truncatewords:35}} <a href="{{ item.url }}">číst dále</a>{% endif %}
 
-  <hr/>
+{% unless forloop.last %}  <hr class="separator"/> {% endunless %}
 {% endfor %}

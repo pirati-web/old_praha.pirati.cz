@@ -7,7 +7,7 @@ fullname: Viktor Mahrik
 name: Viktor Mahrik
 sub: člen finančního výboru
 image: /media/lide/viktor-mahrik.jpg
-anotation: Manažer národního výzkumu navštěvovanosti českého Internetu. Zaměřuje se na transparentní hospodaření a zveřejnování informací na Internetu.
+perex: Manažer národního výzkumu navštěvovanosti českého Internetu. Zaměřuje se na transparentní hospodaření a zveřejnování informací na Internetu.
 mail: viktor.mahrik@pirati.cz
 unit:      praha
 ---

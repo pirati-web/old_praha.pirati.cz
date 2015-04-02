@@ -1,0 +1,17 @@
+title: Program
+unit:  praha
+menu:
+  - label: Kostlivci
+    url:   "#kostlivci-ze-skn"
+  - label: Otevřenost
+    url:   "#prhledn-hospodaen-a-vyrovnan-rozpoet"
+  - label: Zapojení občanů
+    url:   "#rozhodovn-s-ast-oban"
+  - label: Informatika
+    url:   "#vyeme-opencard-a-zavedeme-svobodn-software"
+  - label: Svobodomyslnost
+    url:   "#svobodomysln-praha"
+  - label: Doprava
+    url:   "#doprava-pro-vechny"
+  - label: Další problémy
+    url:   "#eme-problmy-kter-ns-pl"

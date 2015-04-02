@@ -23,7 +23,8 @@ $green: #b4d455;
 /* top bar */
 //.white nav {background: white !important;}
 
-$contents-margin : 220px;
+$contents-margin : 230px;
+$contents-separator: 15px;
 
 @mixin image-radius($radius) {
                   width: $radius * 2;
@@ -32,8 +33,18 @@ $contents-margin : 220px;
      -moz-border-radius: $radius;
       -ms-border-radius: $radius;
           border-radius: $radius;
+          @media #{$medium-up} {
           margin-left: -$contents-margin ;
-          float:left;
+          float:left;}
+          margin-bottom: 10px;
+}
+
+div.contents img.classic {
+  @media #{$medium-up} {
+  margin-left: 0px !important;}
+  float: none;
+  @include image-radius(200px);
+
 }
 
 div.contents img {
@@ -41,13 +52,33 @@ div.contents img {
 }
 
 div.contents img.title {
-  @include image-radius(100px);
+  @include image-radius($contents-margin/2 - $contents-separator);
 }
 
+hr.separator {
+  background: none;
+  border: 0;
+  clear: both !important;
+  display: block;
+  float: none;
+  font-size: 0;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  visibility: hidden;
+  width: 100%;
+  height: 0;
+}
 
-div.contents { padding-left: $contents-margin}
+div.contents {
+  @media #{$medium-up} {
+  padding-left: $contents-margin;}
+  margin-top:20px;}
 
-hr { clear: left;}
+div.contents hr {
+  clear: left;
+  margin-left: -$contents-margin;
+  margin-top: 40px;}
 
 /* TOP-BAR */
 
@@ -57,7 +88,6 @@ hr { clear: left;}
 
 $body-font-family: 'Roboto', sans-serif;
 $topbar-title-font-size: rem-calc(25);
-$topbar-margin-bottom: 0;
 $topbar-margin-top: rem-calc(20);
 $topbar-link-font-size: 120%;
 $topbar-link-font-family: 'Roboto Slab', sans-serif;
@@ -82,12 +112,9 @@ $topbar-dropdown-label-bg: white;
 $topbar-dropdown-bg: white;
 $topbar-dropdown-link-bg: white;
 
+$topbar-margin-bottom: 0px;
 
-/* candidate list */
 
-@media only screen and (max-width: 500px) {
-.ilustrace-program {
- display:block; width:90%; max-width:300px; margin-right:5%; margin-left:5%; float:none;}}
 
 div.perex {
 margin-bottom: 20px;

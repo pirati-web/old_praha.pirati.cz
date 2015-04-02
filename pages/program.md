@@ -4,6 +4,7 @@ unit:      praha
 permalink: program/
 title:     Program
 sub:       Priority Pirátů v pražském zastupitelstvu
+menu:      program
 image:     /media/program/radnice.jpg
 ---
 
@@ -12,6 +13,8 @@ image:     /media/program/radnice.jpg
 Praha ročně nakládá s částkou kolem 40 mld. Kč. To přirozeně přitahuje nejrůznější politické „podnikatele“. V posledních letech např. Praha utratila několik miliard korun za počítačové systémy, které nejsou potřeba nebo nefungují. Další desítky miliard korun město utratilo za megalomanské stavby.
 
 *Piráti kandidují jako protipól ke klientelismu, drancování veřejných rozpočtů a zadlužování občanů. Na rozdíl od ostatních politických stran volební kampaň neplatíme na dluh. Zvolte nás a vytvoříme klub zastupitelů nezávislý na městské pokladně, trafikách v dozorčích radách a úplatcích. Pirátští zastupitelé vás budou informovat a hájit.*
+
+----
 
 ![Blanka](/media/program/blanka.jpg)
 
@@ -22,6 +25,8 @@ Praha je silně zadlužená a splácení předchozích závazků zatíží rozpo
 
 *Chceme obnovit ztracenou důvěru. Důsledně prověříme všechny podezřelé kauzy a budeme hledat viníky. Budeme vymáhat škody nejen po úřednících, ale i politicích. Nespokojíme se s malými rybami. Napadneme nevýhodné smlouvy. V neposlední řadě pošleme fakturu primátorům Pavlu Bémovi a Tomáši Hudečkovi, kteří si nechali platit soukromou reklamu z městské kasy.*
 
+----
+
 ![Peníze](/media/program/penize.jpg)
 
 Průhledné hospodaření a vyrovnaný rozpočet
@@ -30,6 +35,8 @@ Průhledné hospodaření a vyrovnaný rozpočet
 Město financuje nebo řídí dopravní podnik, technické služby, městskou policii, střední školy a stovky dalších organizací, kde může docházet ke korupci. Např. v dozorčích radách městských společností jsou pouze zástupci vládnoucích stran a opozice ani občané nemají k informacím přístup. Financování je neprůhledné a zastupitelé nemohou uhlídat všechny výdaje. Rozpočet města navržený TOP 09 na rok 2014 je schodkový a město ho dorovnává ze svého majetku.
 
 *Chceme zcela průhledné hospodaření města, rovný přístup k veřejným zakázkám a vyrovnaný rozpočet. Každá koruna vynaložená městem bude dohledatelná online. Piráti mají transparentní bankovní účet a zveřejňují faktury, smlouvy, rozpočet a jeho plnění online. Trváme na tom, aby to dělala i Praha a všechny městské společnosti. Výjimky ze zveřejnění upravuje platný zákon o svobodném přístupu k informacím. Na kontrole městských společností v dozorčích radách by se měli podílet i odborníci a opoziční strany.*
+
+----
 
 ![Centrum](/media/program/centrum.jpg)
 
@@ -40,6 +47,8 @@ Občané mají jen malý vliv na správu vlastního města. Na každého Pražan
 
 *Chceme zapojit aktivní občany do rozhodování. Zveřejníme informace, které se jinak nedovíte, např. kdo vydělá na změnách územního plánu. Vytvoříme online prostor pro komentáře k územnímu plánu a jiným návrhům, hodnocení práce zástupců města a občanskou iniciativu. Město podněty pečlivě vyhodnotí a o důležitých otázkách vypíše referendum. Dále usilujeme o tzv. participativní rozpočet, který zavedlo město Porto Alegre a funguje např. i v New Yorku. Vyberete si neziskový projekt, který vám přijde užitečný, a město na něj přispěje.*
 
+----
+
 ![Opencard](/media/program/opencard.jpg)
 
 Vyřešíme Opencard a zavedeme svobodný software
@@ -49,6 +58,8 @@ Praha objednala Opencard bez možnosti upravovat dodaný software a s omezeným 
 
 *Chceme, aby městské organizace používaly otevřený software s možností kopírování bez licenčních omezení, kdykoli to je možné. Město získá kontrolu nad zdrojovým kódem a veřejné zakázky na IT služby otevře více dodavatelům. Město Mnichov od roku 2010 ušetřilo 10 milionů eur díky svobodnému softwaru (příkladem je OpenOffice, Android nebo Firefox). Piráti navrhují, aby Praha pokračovala v provozování Opencard svépomocí, vyvinula vlastní software k obsluze karty pod svobodnou licencí a nemusela platit výpalné podezřelé společnosti EMS.*
 
+----
+
 ![Petřín](/media/program/petrin.jpg)
 
 Svobodomyslná Praha
@@ -57,6 +68,8 @@ Svobodomyslná Praha
 Praha je vyhledávanou turistickou destinací, mimo jiné i pro svoji svobodomyslnost. To určuje její příjemnou atmosféru, kterou kazí různá nesmyslná omezení, jako např. zákaz pití alkoholu na Petříně, zákaz focení se stativem na Karlově mostě, snahy o zákaz nezávislých pouličních umělců, nesmyslné odtahy aut, pokuty chodcům za přecházení kolejí či mimo přechod, na každém rohu kamery a agresivní reklama. Město svůj veřejný prostor přes reklamní agentury neprůhledně prodává politickým stranám.
 
 *Chceme hledat promyšlená řešení, která zabrání plošnému omezování svobody a veřejného prostoru. Zrevidujeme protialkoholní vyhlášku a další podobné zákazy. Usnadníme svobodnou kulturní produkci ve veřejném prostoru, od hudby až po karnevaly a streetparty. Omezíme reklamu v MHD, překrývání památek a billboardy kolem silnic. Podpoříme rovná pravidla kultivovaného využití veřejného prostranství pro předvolební kampaně a neziskové aktivity. Místo kamer investujeme do prevence a výcviku strážníků. Podporujeme jednotný systém placeného parkování v Praze bez nesmyslných odtahů aut.*
+
+----
 
 
 ![Tramvaj](/media/program/tramvaje.jpg)
@@ -68,6 +81,8 @@ Doprava pro všechny
 Dopravní podnik uzavřel korupční smlouvy na jízdenky a na reklamu, přenechává pohledávky z pokut černých pasažerů soukromým vymahačům a metro rozšiřuje k pozemkům spekulantů (Letňany, Motol). Praha již dnes platí dvě třetiny MHD ze svého rozpočtu a kvůli špatnému hospodaření musí zvyšovat jízdné. Praha staví předražené stavby jako tunel Blanka, které mají sporný užitek a násobně překračují plánované náklady. Otevření tunelu Blanka navíc může dlouhodobě zvýšit počet aut.
 
 *Chceme Prahu, ve které bude veřejná, cyklistická a pěší doprava plnohodnotnou alternativou k jízdě automobilem. Po důkladném auditu dopravního podniku navrhujeme analyzovat zavedení bezplatné MHD v Praze, placené z rozpočtu města. Chceme zlepšit komfort pro cestující, např. bezplatným WiFi připojením ve vozech MHD. Investice do silnic, drah, cyklostezek a pěších zón by měly odpovídat počtu uživatelů. V ulicích, kterým odlehčí tunel Blanka, podporujeme pruhy pro cyklisty a další opatření, která zamezí zvýšení počtu aut na původní úroveň. Prioritou je stavba metra D do Písnice, dokončení městského okruhu a analýza rozvoje městské železnice.*
+
+----
 
 ![Bezdomovci na lavičkách](/media/program/bezdomovci.jpg)
 

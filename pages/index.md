@@ -21,19 +21,19 @@ image:     /media/front/volijinak.jpg
 
 ## Co děláme
 
+* Makáme pro vás v **zastupitelstvu** hl. m. Prahy:
+   * Jsme konstruktivní opozice,
+   * Pomáháme zavádět nové technologie na magistrátu,
+   * Oponujeme a kontrolujeme návrhy koalice.
+
+* Náš **senátor Libor Michálek** se vyjadřuje k novým zákonům a prosazuje Pirátské návrhy
+
 * Jsme **hlídací pes svobody** pražských ministerstvech. Máme prsty v zastavení těchto věcí:
     * přílepek zavádějící cenzuru Internetu,
     * tajně vyjednaná mezinárodní smlouva ACTA,
     * novela autorského zákona prosazující zájmy OSA.
 
   Děláme sice politiku, ale když je to potřeba, tak jdeme do ulic
-
-* Náš **senátor Libor Michálek** se vyjadřuje k novým zákonům a prosazuje Pirátské návrhy
-
-* Makáme pro vás v **zastupitelstvu** hl. m. Prahy:
-   * Jsme konstruktivní opozice,
-   * Pomáháme zavádět nové technologie na magistrátu,
-   * Oponujeme a kontrolujeme návrhy koalice.
 
 * * *
 

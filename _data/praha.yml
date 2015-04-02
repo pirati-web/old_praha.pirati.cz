@@ -8,7 +8,7 @@
   url:   /blog/
   color: orange
 - label: Místní sdružení
-  url:   ./sdruzeni/
+  url:   /sdruzeni/
   color: green
 - label: Kontakt
   url:   /kontakt/
