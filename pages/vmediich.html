@@ -1,0 +1,10 @@
+---
+layout:    portal
+unit:      praha
+permalink: /vmediich/
+title:     V médiích
+menu:      novinky
+---
+
+{% assign pages = (site.posts | where: "category", "media" | sort: 'date') %}
+{% include list.html %}

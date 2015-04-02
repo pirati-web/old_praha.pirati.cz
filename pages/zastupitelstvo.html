@@ -1,10 +1,10 @@
 ---
 layout:    portal
 unit:      praha
-permalink: zastupitelstvo/
+permalink: /zastupitelstvo/
 title:     Zprávy ze zastupitelstva
 menu:      novinky
 ---
 
 {% assign pages = (site.posts | where: "category", "blog" | sort: 'date') %}
-{% include list.html %}
+{% include list.html param="zastupitelstvo" %}

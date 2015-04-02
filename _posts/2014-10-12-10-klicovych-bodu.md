@@ -5,7 +5,11 @@ tags:
 - rada
 title:    10 bodů pro novou Radu
 image:    /media/blog/rada.jpg
-people:   Jakub Michálek, Ondřej Profant, Mikuláš Ferjenčík, Adam Zábranský
+people:   
+- Jakub Michálek 
+- Ondřej Profant 
+- Mikuláš Ferjenčík 
+- Adam Zábranský
 places:   Praha
 ---
 

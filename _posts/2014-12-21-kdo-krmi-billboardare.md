@@ -5,7 +5,8 @@ tags:
 - pražské stavební předpisy
 title:    Kdo krmí billboardáře?
 image:    /media/blog/psp.jpg
-autor:    Jakub Michálek
+autor:    
+- Jakub Michálek
 people:   Matěj Stropnický
 ---
 
