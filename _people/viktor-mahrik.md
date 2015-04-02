@@ -1,14 +1,18 @@
 ---
-layout: portal
-category: tym
-title: Viktor Mahrik
-number: 5
-fullname: Viktor Mahrik
-name: Viktor Mahrik
-sub: člen finančního výboru
-image: /media/lide/viktor-mahrik.jpg
-anotation: Manažer národního výzkumu navštěvovanosti českého Internetu. Zaměřuje se na transparentní hospodaření a zveřejnování informací na Internetu.
-mail: viktor.mahrik@pirati.cz
+layout:    person
+category:  tym
+title:     Viktor Mahrik
+fullname:  Viktor Mahrik
+name:      Viktor Mahrik
+sub:       člen finančního výboru
+image:     /media/lide/viktor-mahrik.jpg
+perex: >
+           Viktor Mahrik je manažer národního výzkumu navštěvovanosti českého Internetu. Zaměřuje se na transparentní hospodaření a zveřejnování informací na Internetu.
+
+mail:      viktor.mahrik@pirati.cz
+facebook:  https://www.facebook.com/viktor.mahrik
+twitter:   https://twitter.com/_ViM
+tasks:     https://redmine.pirati.cz/projects/praha/issues?query_id=22
 unit:      praha
 ---
 
