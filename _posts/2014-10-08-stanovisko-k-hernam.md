@@ -1,10 +1,14 @@
 ---
-layout: blog
+layout:   blog
 category: blog
-tags: herny, hazard
-title: Regulace či zákaz heren?
-image: /media/blog/herny.jpg
-autor: Jakub Michálek
+tags:
+- hazard
+- přímá demokracie
+title:    Regulace či zákaz heren?
+image:    /media/blog/herny.jpg
+autor:    Jakub Michálek
+people:   Jakub Michálek
+places:   Praha
 ---
 
 O omezení heren a kasin by podle Pirátů měli rozhodovat občané jednotlivých městských částí v **referendech** (Piráti některá referenda iniciují a podporují). Úplný zákaz heren však dle našeho názoru není řešením gamblerství. Lidé si najdou způsob, jak ho obejít, třeba budou sázet na Internetu nebo se herny budou přesouvat do šedé zóny, stejně jako v ní jsou dnes veřejné domy a drogoví dealeři.

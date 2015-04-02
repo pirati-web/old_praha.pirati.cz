@@ -1,8 +1,26 @@
+{% if include.param %}
+
 {% for item in pages %}
+{% if item.tags contains include.param %}
 <img src="{{ item.image }}" title="{{ item.title}}">
 
 <h3><a href=" {{item.url}} ">{{ item.title}}</a><small>{{ item.sub }}</small></h3>
 {% if item.perex %}{{ item.perex }}{% elsif item.excerpt %}{{item.excerpt}}{% else %}{{ item.content | truncatewords:35}} <a href="{{ item.url }}">číst dále</a>{% endif %}
-
 {% unless forloop.last %}  <hr class="separator"/> {% endunless %}
+
+{% endif %}
 {% endfor %}
+
+{% else %}
+
+{% for item in pages %}
+
+<img src="{{ item.image }}" title="{{ item.title}}">
+
+<h3><a href=" {{item.url}} ">{{ item.title}}</a><small>{{ item.sub }}</small></h3>
+{% if item.perex %}{{ item.perex }}{% elsif item.excerpt %}{{item.excerpt}}{% else %}{{ item.content | truncatewords:35}} <a href="{{ item.url }}">číst dále</a>{% endif %}
+{% unless forloop.last %}  <hr class="separator"/> {% endunless %}
+
+{% endfor %}
+
+{% endif %}

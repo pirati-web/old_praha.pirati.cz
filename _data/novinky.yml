@@ -5,6 +5,8 @@ menu:
     url:   /blog/
   - label: Zastupitelstvo
     url:   /zastupitelstvo/
+  - label: Témata
+    url:   /temata/
   - label: V médiích
     url:   /media/
   - label: Dementi

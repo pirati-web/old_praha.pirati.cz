@@ -1,4 +1,4 @@
-----
+---
 layout:    person
 category:  tym
 title:     Viktor Mahrik
