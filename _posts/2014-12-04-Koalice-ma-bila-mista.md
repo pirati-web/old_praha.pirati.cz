@@ -2,7 +2,7 @@
 layout:   blog
 category: projev
 tags: 
-- projev
+- koalice
 title:    Koalice má bílá místa
 image:    /media/blog/jakub-hovori.jpg
 autor:    Jakub Michálek

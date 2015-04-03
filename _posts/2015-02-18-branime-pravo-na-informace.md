@@ -2,7 +2,7 @@
 layout:   blog
 category: blog
 tags:
-- Právo na informace
+- zveřejňování
 title:    Koalice na desítce cenzuruje informace zastupitelům
 image:    /media/blog/kleslova.jpg
 autor:    Jakub Michálek

@@ -2,7 +2,7 @@
 layout:   blog
 category: blog
 tags: 
-- pražské stavební předpisy
+- koalice
 title:    Kdo krmí billboardáře?
 image:    /media/blog/psp.jpg
 autor:    

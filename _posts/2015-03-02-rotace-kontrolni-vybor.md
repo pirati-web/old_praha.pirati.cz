@@ -1,9 +1,8 @@
 ---
 layout:   blog
-category: blog
+category: projev
 tags:     
-- Kontrolní výbor 
-- projev
+- Kontrola
 title:    Pat v bitvě o kontrolní výbor, koalice odmítla rotaci
 image:    /media/blog/miki-kv.jpg
 autor:    Mikuláš Ferjenčík

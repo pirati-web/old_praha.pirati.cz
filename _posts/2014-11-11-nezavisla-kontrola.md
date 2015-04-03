@@ -2,7 +2,7 @@
 layout:   blog
 category: blog
 tags:     
-- Kontrolní výbor
+- Kontrola
 title:    Kontrolní výbor Pirátům
 image:    /media/blog/magistrat.jpg
 autor:    Mikuláš Ferjenčík

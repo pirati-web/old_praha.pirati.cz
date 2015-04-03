@@ -1,8 +1,8 @@
 ---
 layout:   blog
-category: blog
+category: projev
 tags:     
-- projev
+- koalice
 title:    Vendor lock-in pokračuje
 image:    /media/blog/magistrat.jpg
 autor:    Ondřej Profant

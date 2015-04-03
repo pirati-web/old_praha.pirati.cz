@@ -2,8 +2,7 @@
 layout:   blog
 category: blog
 tags: 
-- smlouvy 
-- otevřenost
+- zveřejňování
 title:    Zveřejňování? Prostě zdržujeme
 image:    /media/blog/adam-papir.jpg
 autor:    Adam Zábranský

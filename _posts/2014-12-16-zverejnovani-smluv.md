@@ -2,8 +2,7 @@
 layout:   blog
 category: blog
 tags: 
-- smlouvy 
-- otevřenost
+- zveřejňování
 title:    Zveřejňujme smlouvy lépe
 image:    /media/blog/dotaz-michalek.jpg
 autor:    Jan Loužek
