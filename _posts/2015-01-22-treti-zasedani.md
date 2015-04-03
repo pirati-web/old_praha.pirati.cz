@@ -2,7 +2,7 @@
 layout:   blog
 category: zastupitelstvo
 tags:
-- zastupitelstvo
+- koalice
 sub:      3. zasedání zastupitelstva
 title:    Rada schválila zakázku 13 mld. na svoz odpadu
 image:    /media/blog/ondra-i-miki.jpg
@@ -26,7 +26,7 @@ zakázku na svoz odpadu za 12,8 mld. Kč na dobu 10 let do roku 2025. Přináš�
   dostupný open-source software**. Náměstek Petr Dolínek přislíbil, že se podnětem
   bude zabývat.
 * Pirátka Michaela Krausová vystoupila jako občanka a interpelovala náměstkyni
-  prof. Kyslingerovou, aby byl splněn volební slib politických stran na
+  prof. Kislingerovou, aby byl splněn volební slib politických stran na
   **zavedení participativního rozpočtu**. Apelovala, aby byl participativní
   rozpočet začleněn do programového prohlášení Rady hl. m. Prahy.
 * Piráti upozorňovali na to, že jeden prodávaný pozemek měl neúplnou dokumentaci

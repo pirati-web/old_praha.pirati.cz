@@ -1,8 +1,8 @@
 ---
 layout:   blog
-category: blog
+category: projev
 tags:     
-- granty
+- zveřejňování
 title:    Občan nesmí znát odměny politiků ODS
 image:    /media/blog/honza.jpg
 autor:    Jan Loužek

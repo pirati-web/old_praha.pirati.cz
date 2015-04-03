@@ -4,7 +4,6 @@ category: blog
 tags:     
 - rada 
 - opencard 
-- papírové kupóny 
 - doprava
 title:    Papírové kupóny jsou důležitý doplněk Opencard
 image:    /media/blog/mhd-prukaz.jpg

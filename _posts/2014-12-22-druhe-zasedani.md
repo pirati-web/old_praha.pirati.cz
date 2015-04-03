@@ -2,7 +2,7 @@
 layout:   blog
 category: zastupitelstvo
 tags:     
-- zastupitelstvo
+- zveřejňování
 sub:      2. zasedání zastupitelstva
 title:    Zastupitelstvo odmítlo jednat o lepším zveřejňování smluv
 image:    /media/blog/miki.jpg

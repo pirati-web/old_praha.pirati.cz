@@ -3,7 +3,6 @@ layout:   blog
 category: blog
 tags:
 - hazard
-- přímá demokracie
 title:    Regulace či zákaz heren?
 image:    /media/blog/herny.jpg
 autor:    Jakub Michálek

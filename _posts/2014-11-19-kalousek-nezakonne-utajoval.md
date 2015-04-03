@@ -2,7 +2,7 @@
 layout:   blog
 category: blog
 tags:     
-- informace
+- zveřejňování
 title:    Piráti dolují informace ČKA
 image:    /media/blog/pirati-vs-kalousek.jpg
 autor:    Jakub Michálek
