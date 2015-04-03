@@ -1,10 +1,10 @@
 ---
 layout:   blog
 category: zastupitelstvo
-tags: 
+tags:
 - zastupitelstvo
 sub:      1. zasedání zastupitelstva
-title:    Kontrolní výbor nezvolen
+title:    Piráti jdou do opozice, kontrolní výbor nezvolen
 image:    /media/blog/projev-kontrolni-vybor.jpg
 autor:    Jakub Michálek
 people:   Adriana Krnáčová, Miroslav Ludvík, Viktor Mahrik

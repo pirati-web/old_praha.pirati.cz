@@ -1,10 +1,10 @@
 ---
 layout:   blog
 category: zastupitelstvo
-tags: 
+tags:
 - zastupitelstvo
 sub:      3. zasedání zastupitelstva
-title:    3. zasedání zastupitelstva
+title:    Rada schválila zakázku 13 mld. na svoz odpadu
 image:    /media/blog/ondra-i-miki.jpg
 autor:    Jakub Michálek
 people:   Jakub Michálek, Mikuláš Ferjenčík, Ondřej Profant, Adam Zábranský
@@ -12,7 +12,7 @@ places:   Magistrát
 ---
 
 Na třetím zasedání zastupitelstva hl. m. Prahy schválila koalice obrovskou
-zakázku na svoz odpadu za 12,8 mld. Kč na dobu 10 let do roku 2025. Přinášíme to nejdůležitější, co se na zasedání přihodilo: 
+zakázku na svoz odpadu za 12,8 mld. Kč na dobu 10 let do roku 2025. Přinášíme to nejdůležitější, co se na zasedání přihodilo:
 
 * Zastupitelstvo schválilo **dotace v celkové výši přes 200 mil. Kč v operačním
   programu Praha -- adaptibilita** (většina peněz jde z Evropské unie).
