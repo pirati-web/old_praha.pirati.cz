@@ -1,0 +1,16 @@
+<hr/>
+
+<h3>Mohlo by vás dál zajímat</h3>
+
+{% for item in site.related_posts limit:3 %}
+
+<img src="{{ item.image }}" title="{{ item.title}}">
+
+<h4><a href=" {{item.url}} ">{{ item.title}}</a><small>{{ item.sub }}</small></h4>
+
+{% if item.autor %}<span class="radius label">{{ item.autor }}</span> {% endif %}
+{% if item.date %}<span class="radius secondary label">{{ item.date | date: "%-d.%-m.%Y" }}</span><br/> {% endif %}
+{% if item.perex %}{{ item.perex }}{% else %}{{ item.content | strip_html | truncatewords:35}} <a href="{{ item.url }}">číst dále</a>{% endif %}
+{% unless forloop.last %}  <hr class="separator"/> {% endunless %}
+
+{% endfor %}

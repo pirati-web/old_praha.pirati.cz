@@ -1,7 +1,7 @@
 ---
 layout:    portal
 title:     Piráti Praha
-sub:       Krajské sdružení
+sub:       Internet je naše moře!
 perex:     Prosazujeme skutečnou otevřenost na pražském magistrátě
 unit:      praha
 permalink: index.html

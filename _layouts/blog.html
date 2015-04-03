@@ -2,6 +2,7 @@
 
 <body>
 
+{% assign page.menu = "novinky" %}
 {% include top.html %}
 
 <div class="row bgwhite contents">
@@ -9,10 +10,14 @@
  {% endif %}
   <h1>{{ page.title }} {% if page.sub %}<small>{{ page.sub }}</small>{% endif %}</h1>
 
-  {{ content }}
-
   {% if page.autor %} <span class="radius label">{{ page.autor}}</span> {% endif %}
   {% if page.date %}  <span class="radius secondary label">{{ page.date | date: "%d.%m.%Y" }}</span> {% endif %}
+
+  {{ content }}
+
+
+{% include related.html %}
+
 
 </div>
 {% include foot.html %}

@@ -1,12 +1,12 @@
 ---
 layout:   blog
 category: blog
-tags: 
+tags:
 - parkování
 title:    Jednotný systém parkování
 image:    /media/blog/modra-zona.jpg
 autor:    Jakub Michálek
-people: 
+people:
 places:   Praha
 ---
 

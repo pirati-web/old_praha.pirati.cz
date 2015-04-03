@@ -1,10 +1,14 @@
 {% if include.param %}
 
-{% for item in pages %}
+{% for item in pages reversed %}
 {% if item.tags contains include.param %}
 <img src="{{ item.image }}" title="{{ item.title}}">
 
 <h3><a href=" {{item.url}} ">{{ item.title}}</a><small>{{ item.sub }}</small></h3>
+
+{% if item.autor %}<span class="radius label">{{ item.autor }}</span> {% endif %}
+{% if item.date %}<span class="radius secondary label">{{ item.date | date: "%-d.%-m.%Y"}}</span><br/> {% endif %}
+
 {% if item.perex %}{{ item.perex }}{% else %}{{ item.content | strip_html | truncatewords:35}} <a href="{{ item.url }}">číst dále</a>{% endif %}
 {% unless forloop.last %}  <hr class="separator"/> {% endunless %}
 
@@ -13,11 +17,14 @@
 
 {% else %}
 
-{% for item in pages %}
+{% for item in pages reversed %}
 
 <img src="{{ item.image }}" title="{{ item.title}}">
 
 <h3><a href=" {{item.url}} ">{{ item.title}}</a><small>{{ item.sub }}</small></h3>
+
+{% if item.autor %}<span class="radius label">{{ item.autor }}</span> {% endif %}
+{% if item.date %}<span class="radius secondary label">{{ item.date | date: "%-d.%-m.%Y" }}</span><br/> {% endif %}
 {% if item.perex %}{{ item.perex }}{% else %}{{ item.content | strip_html | truncatewords:35}} <a href="{{ item.url }}">číst dále</a>{% endif %}
 {% unless forloop.last %}  <hr class="separator"/> {% endunless %}
 
